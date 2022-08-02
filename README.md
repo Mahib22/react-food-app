@@ -8,4 +8,4 @@ Belajar React JS membuat CRUD aplikasi daftar makanan
 
 - Menambahkan makanan
 - Edit makanan
-- Hapus catatan
+- Hapus makanan
